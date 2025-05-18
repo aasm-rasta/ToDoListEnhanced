@@ -1,5 +1,6 @@
 //atalho rafce p/ criar componente
 import React from 'react'
+import { useState } from 'react'
 
 const Todo = ({todo}) => {
     return (
